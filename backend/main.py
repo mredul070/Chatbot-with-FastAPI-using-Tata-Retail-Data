@@ -5,7 +5,6 @@ import uvicorn
 import pathlib
 from app.routes import router as api_router
 
-
 environment = os.getenv("APP_ENV")
 
 if environment == "prod":
@@ -29,4 +28,4 @@ app.include_router(api_router)
 
 if __name__ == "__main__":
     cwd = pathlib.Path(__file__).parent.resolve()
-    uvicorn.run("main:app", host="0.0.0.0", port=5000, log_config=f"{cwd}/log.ini", reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=5000, reload=True)
