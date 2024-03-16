@@ -1,0 +1,31 @@
+version: "3.7"
+
+services:
+  api:
+    container_name: tata_chatbot
+    depends_on:
+     - db
+    environment:
+      - SQLALCHEMY_DATABASE_URI=postgresql://testuser:testpass@db/testdb
+      - JWT_REFRESH_SECRET_KEY=JWT_REFRESH_SECRET_KEY
+      - JWT_SECRET_KEY=JWT_SECRET_KEY
+      - APP_ENV=dev
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+
+  db:
+    image: bitnami/postgresql:15.3.0-debian-11-r85
+    ports:
+      - '5437:5432'
+    volumes:
+      - app_db:/bitnami/postgresql
+    environment:
+      - POSTGRESQL_USERNAME=testuser
+      - POSTGRESQL_PASSWORD=testpass
+      - POSTGRESQL_DATABASE=testdb
+
+volumes:
+ app_db:
