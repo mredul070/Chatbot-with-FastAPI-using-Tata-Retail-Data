@@ -2,9 +2,13 @@ import csv
 
 from app.db.crud import CRUDBase
 from app.db.session import get_db
+from app.models.dataset import Dataset
 
 csv_file = "cleaned_data.csv"
 
+dataset_crud = CRUDBase(model=Dataset)
+
+get_db_session = get_db()
 
 with open(csv_file, "r", newline="", encoding="utf-8") as file:
     reader = csv.DictReader(file)
@@ -19,9 +23,8 @@ with open(csv_file, "r", newline="", encoding="utf-8") as file:
             customer_id=int(row["CustomerID"]),
             country=row["Country"]
         )
-        db.add(purchase_history)
+        dataset_crud.create(db=get_db_session, obj_in=purchase_history)
 
-# Commit the changes to the database
 
 
 print("Dataset loaded successfully.")

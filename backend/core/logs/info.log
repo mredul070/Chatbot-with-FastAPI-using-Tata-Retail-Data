@@ -269,3 +269,10 @@ asyncio.exceptions.CancelledError
 [18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:77] [INFO] - Application shutdown complete.
 [18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:85] [INFO] - Finished server process [18300]
 [18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:103] [INFO] - Stopping reloader process [18360]
+[18/03/2024 21:27:21] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\config.py:359] [INFO] - Will watch for changes in these directories: ['C:\\Users\\UseR\\Desktop\\development\\tata_chatbot\\backend']
+[18/03/2024 21:27:21] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\config.py:585] [INFO] - Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+[18/03/2024 21:27:21] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:72] [INFO] - Started reloader process [26276] using StatReload
+[18/03/2024 21:27:21] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [24824]
+[18/03/2024 21:27:21] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 21:27:21] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 21:27:25] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:103] [INFO] - Stopping reloader process [26276]
