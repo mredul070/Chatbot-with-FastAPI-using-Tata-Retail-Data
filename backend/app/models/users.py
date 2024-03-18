@@ -13,3 +13,5 @@ class Users(Base, Timestamp):
     email = Column(String(256), nullable=False)
     password = Column(String(255), nullable=False)
 
+    sessions = relationship("UserSession", back_populates="user")
+

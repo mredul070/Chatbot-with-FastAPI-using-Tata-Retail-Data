@@ -36,3 +36,236 @@ asyncio.exceptions.CancelledError
 [17/03/2024 04:00:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [23940]
 [17/03/2024 04:00:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
 [17/03/2024 04:00:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:30:42] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:30:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [17056]
+[18/03/2024 09:30:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:30:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:30:52] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:30:53] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [23064]
+[18/03/2024 09:30:53] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:30:53] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:31:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:31:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [19364]
+[18/03/2024 09:31:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:31:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:31:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:31:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26568]
+[18/03/2024 09:31:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:31:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:31:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:31:03] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [5640]
+[18/03/2024 09:31:03] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:31:03] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:40:54] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:40:55] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [21392]
+[18/03/2024 09:40:55] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:40:55] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:40:56] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:40:57] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26600]
+[18/03/2024 09:40:57] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:40:57] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:25] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [17048]
+[18/03/2024 09:42:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:27] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:28] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [7928]
+[18/03/2024 09:42:28] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:28] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:31] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:31] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [24564]
+[18/03/2024 09:42:31] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:31] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:33] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:34] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26020]
+[18/03/2024 09:42:34] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:34] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [4908]
+[18/03/2024 09:42:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28028]
+[18/03/2024 09:42:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [24008]
+[18/03/2024 09:42:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:52] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:53] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [4864]
+[18/03/2024 09:42:53] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:53] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:42:59] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:42:59] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [12504]
+[18/03/2024 09:42:59] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:42:59] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [27096]
+[18/03/2024 09:43:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:06] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:07] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [8492]
+[18/03/2024 09:43:07] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:07] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [25060]
+[18/03/2024 09:43:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [20812]
+[18/03/2024 09:43:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:18] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:19] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [15708]
+[18/03/2024 09:43:19] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:19] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:23] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:24] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [15540]
+[18/03/2024 09:43:24] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:24] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:43:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [4768]
+[18/03/2024 09:43:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:43:57] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:43:58] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28704]
+[18/03/2024 09:43:58] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:43:58] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:44:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:44:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [21908]
+[18/03/2024 09:44:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:44:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:47:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:47:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [14052]
+[18/03/2024 09:47:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:47:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:47:46] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:47:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [22712]
+[18/03/2024 09:47:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:47:47] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:48:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:48:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [19584]
+[18/03/2024 09:48:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:48:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:48:05] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:48:06] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [2676]
+[18/03/2024 09:48:06] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:48:06] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:48:10] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:48:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [15064]
+[18/03/2024 09:48:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:48:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:49:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:49:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [23828]
+[18/03/2024 09:49:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:49:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:49:03] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:49:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28128]
+[18/03/2024 09:49:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:49:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:52:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:52:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [19588]
+[18/03/2024 09:52:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:52:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:52:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\dataset.py'. Reloading...
+[18/03/2024 09:52:45] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26608]
+[18/03/2024 09:52:45] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:52:45] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:52:49] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\users.py'. Reloading...
+[18/03/2024 09:52:50] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [23064]
+[18/03/2024 09:52:50] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:52:50] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:53:01] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:53:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26752]
+[18/03/2024 09:53:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:53:02] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:53:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:53:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28812]
+[18/03/2024 09:53:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:53:04] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 09:53:11] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 09:53:12] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26068]
+[18/03/2024 09:53:12] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 09:53:12] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:05:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:05:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26696]
+[18/03/2024 10:05:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:05:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:05:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:05:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28092]
+[18/03/2024 10:05:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:05:44] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:05:54] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:05:55] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [13888]
+[18/03/2024 10:05:55] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:05:55] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:08] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:06:09] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [25124]
+[18/03/2024 10:06:09] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:09] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:12] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:06:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28952]
+[18/03/2024 10:06:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:13] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:14] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:06:15] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [28048]
+[18/03/2024 10:06:15] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:15] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:22] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:06:23] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [5800]
+[18/03/2024 10:06:23] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:23] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:26] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:06:27] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [29040]
+[18/03/2024 10:06:27] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:27] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:33] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:06:33] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [9508]
+[18/03/2024 10:06:33] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:33] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:37] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 10:06:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [14828]
+[18/03/2024 10:06:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 10:06:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [29336]
+[18/03/2024 10:06:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:40] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:06:49] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 10:06:50] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [26144]
+[18/03/2024 10:06:50] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:06:50] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:07:36] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 10:07:37] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [27944]
+[18/03/2024 10:07:37] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:07:37] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:08:10] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\session.py'. Reloading...
+[18/03/2024 10:08:10] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [4008]
+[18/03/2024 10:08:10] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:08:10] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:08:25] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:08:25] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [25456]
+[18/03/2024 10:08:25] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:08:25] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:08:34] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:08:35] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [25256]
+[18/03/2024 10:08:35] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:08:35] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:08:37] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:08:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [23968]
+[18/03/2024 10:08:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:08:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:08:38] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:08:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [21424]
+[18/03/2024 10:08:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:08:39] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:08:42] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:47] [WARNING] - StatReload detected changes in 'app\models\query.py'. Reloading...
+[18/03/2024 10:08:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:75] [INFO] - Started server process [18300]
+[18/03/2024 10:08:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:47] [INFO] - Waiting for application startup.
+[18/03/2024 10:08:43] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:61] [INFO] - Application startup complete.
+[18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:253] [INFO] - Shutting down
+[18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:66] [INFO] - Waiting for application shutdown.
+[18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\lifespan\on.py:77] [INFO] - Application shutdown complete.
+[18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\server.py:85] [INFO] - Finished server process [18300]
+[18/03/2024 10:22:00] [C:\Users\UseR\AppData\Roaming\Python\Python312\site-packages\uvicorn\supervisors\basereload.py:103] [INFO] - Stopping reloader process [18360]
